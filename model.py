@@ -46,3 +46,6 @@ class Network(nn.Module):
         # We will see a much graphical demonstration below
         x = F.log_softmax(x, dim=1)
         return x
+model = Network()
+model.to(device)
+print(model)
