@@ -1,1 +1,1 @@
-# MNIST_CNN
+# MNIST_CNN_Handwritten_Digits
